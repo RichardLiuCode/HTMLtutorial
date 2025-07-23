@@ -106,6 +106,9 @@ Long text
   <source src="audio.mp3">
 </audio>
 ````
+|Special Parameter| Description |
+|-|-|
+|controls| To show the controler of the player |
 ----
 ### Video
 ````
@@ -113,11 +116,19 @@ Long text
   <source src="video.mp4">
 </video>
 ````
+|Special Parameter| Description |
+|-|-|
+|controls| To show the controler of the player |
 ----
 ### Iframe
 ````
 <iframe src="https://somethings.com></iframe>"
 ````
+|Special Parameter| Description |
+|-|-|
+|sandbox|Block some permissions to for the iframe tag, Especially when you don't trust the website you embeded in the iframe tag.|
+|allow| Allow some permission in the iframe tag when needed and you trust the website is save. |
+|allowfullscreen|Allow the embedded website can be go to full screen mode.|
 - Remember! Some website has x-frame-option, that kind of website cannot be embeded into iframe.
 ----
 

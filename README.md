@@ -1,4 +1,6 @@
 # HTML Tutorial
+- HTML is the code that use for display a website.
+----
 ## UI Element
 ### Heading 
 | # | HTML |
@@ -93,9 +95,10 @@ Long text
 <iframe src="https://somethings.com></iframe>"
 ````
 - Remember! Some website has x-frame-option, that kind of website cannot be embeded into iframe.
+----
 
 ## Embeded Css/Javascript
-## Css
+### Css
 ````
 <style>
   body{
@@ -103,6 +106,23 @@ Long text
   }
 </style>
 ````
+
+Embeded external
+````
+<link rel="stylesheet" href="style.css">
+````
+----
+### Javascript
+````
+<script>
+  console.log("message")
+</script>
+````
+Embeded external
+````
+<script src="script.js"></script>
+````
+----
 
 
 

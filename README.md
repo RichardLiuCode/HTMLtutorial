@@ -23,13 +23,13 @@
 ----
 ## Button
 ````
-<button>_Text_</button>
+<button>Click Me</button>
 ````
 ----
 ## Dropdown 
 ````
 <select>
-  <option disable selected> Choose your code language</option>
+  <option disabled selected> Choose your code language</option>
   <option>HTML</option>
   <option>Css</option>
   <option>Javascript</option>
@@ -39,6 +39,7 @@
 ----
 ## Image
 ````
-<img src="_Image_URL_">
+<img src="image.png">
 ````
+
 

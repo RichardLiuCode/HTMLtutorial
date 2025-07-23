@@ -14,6 +14,11 @@
 ````
 <p>This is a paragraph</p>
 ````
+
+## Dividing Line
+````
+<hr>
+````
 ## Input
 ````
 <input>

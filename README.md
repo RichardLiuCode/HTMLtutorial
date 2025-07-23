@@ -1,14 +1,14 @@
 # HTML Tutorial
 ----
 ## Heading 
-| HTML |
-| - |
-| ````<h1>This is a first heading</h1>```` |
-| ````<h2>This is a second heading</h2>```` |
-| ````<h3>This is a third heading</h3>```` |
-| ````<h4>This is a fourth heading</h4>```` |
-| ````<h5>This is a fifth heading</h5>```` |
-| ````<h6>This is a sixth heading</h6>```` |
+| # | HTML |
+| - | - |
+|1| ````<h1>This is a first heading</h1>```` |
+|2| ````<h2>This is a second heading</h2>```` |
+|3| ````<h3>This is a third heading</h3>```` |
+|4| ````<h4>This is a fourth heading</h4>```` |
+|5| ````<h5>This is a fifth heading</h5>```` |
+|6| ````<h6>This is a sixth heading</h6>```` |
 
 ## Input
 ````

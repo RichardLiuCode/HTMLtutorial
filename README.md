@@ -1,6 +1,6 @@
 # HTML Tutorial
-----
-## Heading 
+## UI Element
+- Heading 
 | # | HTML |
 | - | - |
 |1| ````<h1>This is a first heading</h1>```` |
@@ -10,29 +10,29 @@
 |5| ````<h5>This is a fifth heading</h5>```` |
 |6| ````<h6>This is a sixth heading</h6>```` |
 ----
-## Paragraph
+- Paragraph
 ````
 <p>This is a paragraph</p>
 ````
 ----
-## Line Break
+- Line Break
 ````
 <br>
 ````
 ----
-## Dividing Line
+- Dividing Line
 ````
 <hr>
 ````
 ----
-## Textarea
+- Textarea
 ````
 <textarea>
 Long text
 </textarea>
 ````
 ----
-## Input
+- Input
 ````
 <input>
 ````
@@ -53,12 +53,12 @@ Long text
 | ````<input type="radio">```` | Radio | A button that can only be select one in the same group id, just like multiple choice. |
 
 ----
-## Button
+- Button
 ````
 <button>Click Me</button>
 ````
 ----
-## Dropdown 
+- Dropdown 
 ````
 <select>
   <option disabled selected> Choose your code language</option>
@@ -69,26 +69,26 @@ Long text
 </select>
 ````
 ----
-## Image
+- Image
 ````
 <img src="image.png">
 ````
 ----
-## Audio
+- Audio
 ````
 <audio controls>
   <source src="audio.mp3">
 </audio>
 ````
 ----
-## Video
+- Video
 ````
 <video controls>
   <source src="video.mp4">
 </video>
 ````
 ----
-## Iframe
+- Iframe
 ````
 <iframe src="https://somethings.com></iframe>"
 ````

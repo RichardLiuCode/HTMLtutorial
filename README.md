@@ -21,6 +21,13 @@
 | ````<input type="radio">```` | Radio | A button that can only be select one in the same group id, just like multiple choice. |
 
 ----
+## Textarea
+````
+<textarea>
+Long text
+</textarea>
+````
+----
 ## Button
 ````
 <button>Click Me</button>

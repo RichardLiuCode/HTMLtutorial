@@ -23,7 +23,7 @@
 ----
 ## Button
 ````
-<button>Click me</button>
+<button>_Text_</button>
 ````
 ----
 ## Dropdown 
@@ -35,5 +35,10 @@
   <option>Javascript</option>
   <option>Python</option>
 </select>
+````
+----
+## Image
+````
+<img src="_Image_URL_">
 ````
 

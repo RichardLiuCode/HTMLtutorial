@@ -1,6 +1,9 @@
 # HTML Tutorial
 ----
 ## Input
+````
+<input>
+````
 | HTML | Type | Description |
 | - | - | - |
 | ````<input type="text">```` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Text | The input can type any type of text. |
@@ -17,5 +20,15 @@
 | ````<input type="checkbox">```` | Checkbox | A checkbox that can be check or blank |
 | ````<input type="radio">```` | Radio | A button that can only be select one in the same group id, just like multiple choice. |
 
-
+----
+## Dropdown 
+````
+<select>
+  <option disable selected> Choose your code language</option>
+  <option>HTML</option>
+  <option>Css</option>
+  <option>Javascript</option>
+  <option>Python</option>
+</select>
+````
 

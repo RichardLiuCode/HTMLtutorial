@@ -18,7 +18,7 @@
 |-|-|-|
 |id| The only id for a element, and can be use to call in css/javascript| All UI Element Tag |
 |class| The class is for a group element to use a style like ````.btn{...}```` in css| All UI Element Tag |
-|href | Hyper link, like ````href="https://github.com"````|[````<a>````](https://github.com/RichardLiuCode/HTMLtutorial/#hyper-link)  |
+|href | Hyper link, like ````href="https://github.com"````|[````<a>````](https://github.com/RichardLiuCode/HTMLtutorial/#hyper-link), [````<link>````](https://github.com/RichardLiuCode/HTMLtutorial/blob/main/README.md#link)|
 
 ### Heading 
 | # | HTML |

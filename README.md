@@ -14,11 +14,19 @@
 ````
 <p>This is a paragraph</p>
 ````
-
+----
 ## Dividing Line
 ````
 <hr>
 ````
+----
+## Textarea
+````
+<textarea>
+Long text
+</textarea>
+````
+----
 ## Input
 ````
 <input>
@@ -39,13 +47,6 @@
 | ````<input type="checkbox">```` | Checkbox | A checkbox that can be check or blank |
 | ````<input type="radio">```` | Radio | A button that can only be select one in the same group id, just like multiple choice. |
 
-----
-## Textarea
-````
-<textarea>
-Long text
-</textarea>
-````
 ----
 ## Button
 ````

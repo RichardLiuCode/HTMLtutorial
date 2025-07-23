@@ -3,7 +3,9 @@
 ----
 ## UI Element
 ### Parameter Inside UI Element
-|parameter|
+|parameter|description|available tag|
+|-|-|-|
+|id| The only id for a element, and can be use to call in css/javascript| (All UI Element Tag) |
 
 ### Heading 
 | # | HTML |

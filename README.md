@@ -34,6 +34,11 @@
 <hr>
 ````
 ----
+### Hyper Link
+````
+<a href="https://github.com">GitHub</a>
+````
+----
 ### Textarea
 ````
 <textarea>

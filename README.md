@@ -1,6 +1,17 @@
 # HTML Tutorial
 - HTML is the code that use for display a website.
 ----
+## Head
+### Title
+````
+<title>Home Page</title>
+````
+----
+### Link
+| HTML | Description |
+|-|-|
+|````<link rel="icon" href="favicon.png">````| Set the favicon |
+|````<link rel="stylesheet" href="style.css">````| Load the Css |
 ## UI Element
 ### Parameter Inside UI Element Tag
 |parameter|description|available tag|

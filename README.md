@@ -9,7 +9,11 @@
 |4| ````<h4>This is a fourth heading</h4>```` |
 |5| ````<h5>This is a fifth heading</h5>```` |
 |6| ````<h6>This is a sixth heading</h6>```` |
-
+----
+## Paragraph
+````
+<p>This is a paragraph</p>
+````
 ## Input
 ````
 <input>

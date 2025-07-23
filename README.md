@@ -5,7 +5,9 @@
 ### Parameter Inside UI Element
 |parameter|description|available tag|
 |-|-|-|
-|id| The only id for a element, and can be use to call in css/javascript| (All UI Element Tag) |
+|id| The only id for a element, and can be use to call in css/javascript| All UI Element Tag |
+|class| The class is for a group element to use a style like ````.btn{...}```` in css| All UI Element Tag |
+|href | Hyper link, like ````href="https://github.com"````|  |
 
 ### Heading 
 | # | HTML |

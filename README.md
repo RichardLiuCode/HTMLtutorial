@@ -94,6 +94,9 @@ Long text
   <option>Python</option>
 </select>
 ````
+|Special Parameter| Description |
+|-|-|
+|disabled selected|To make an option in the dropdown that can only be display and cannot be select.|
 ----
 ### Image
 ````
@@ -129,7 +132,7 @@ Long text
 |sandbox|Block some permissions to for the iframe tag, Especially when you don't trust the website you embeded in the iframe tag.|
 |allow| Allow some permission in the iframe tag when needed and you trust the website is save. |
 |allowfullscreen|Allow the embedded website can be go to full screen mode.|
-- Remember! Some website has x-frame-option, that kind of website cannot be embeded into iframe.
+- Remember! Some website has x-frame-option, that kind of website cannot be embeded into an iframe.
 ----
 
 ## Embeded Css/Javascript

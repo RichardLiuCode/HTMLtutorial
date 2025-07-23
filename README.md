@@ -4,6 +4,7 @@
 | HTML | Type | Description |
 | - | - | - |
 | ````<input type="text">```` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Text | The input can type any type of text. |
+| ````<input type="search">````| Search | The text input that the user can click the "×" to clear all the text in the input when they need to reset the text input to type another things. |
 | ````<input type="number"````| Number | The input can only type number. |
 | ````<input type="url">````| URL |The input field for web URL, but it can still enter any type of text. |
 | ````<input type="date">```` | Date | The input field will automatically convert the input text into date format, the user can use a calendar to select the date. |

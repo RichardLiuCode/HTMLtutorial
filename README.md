@@ -41,6 +41,21 @@
 ````
 <img src="image.png">
 ````
+----
+## Audio
+````
+<audio controls>
+  <source src="audio.mp3">
+</audio>
+````
+----
+## Video
+````
+<video controls>
+  <source src="video.mp4">
+</video>
+````
+----
 
 
 

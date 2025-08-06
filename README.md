@@ -54,34 +54,34 @@
 |6| ````<h6>This is a sixth heading</h6>```` |
 ----
 ### Paragraph
-````
+````html
 <p>This is a paragraph</p>
 ````
 ----
 ### Line Break
-````
+````html
 <br>
 ````
 ----
 ### Dividing Line
-````
+````html
 <hr>
 ````
 ----
 ### Hyper Link
-````
+````html
 <a href="https://github.com">GitHub</a>
 ````
 ----
 ### Textarea
-````
+````html
 <textarea>
 Long text
 </textarea>
 ````
 ----
 ### Input
-````
+````html
 <input>
 ````
 | HTML | Type | Description |
@@ -102,7 +102,7 @@ Long text
 
 ----
 ### Button
-````
+````html
 <button>Click Me</button>
 ````
 ----

@@ -2,7 +2,9 @@
 <table>
   <tr>
     <td>
-      <h1>HTML Tutorial</h1>
+      <h1>
+        <strong>HTML Tutorial</strong>
+      </h1>
       <p>HTML is the code that use for display a website.</p>
     </td>
     <td>

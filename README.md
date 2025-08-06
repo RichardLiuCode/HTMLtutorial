@@ -1,7 +1,16 @@
-# HTML Tutorial
-- HTML is the code that use for display a website.
 
-![UwuCatGIF](https://github.com/user-attachments/assets/6d16b691-4a68-49e9-b2b0-498a5bb75294)
+<table>
+  <tr>
+    <td>
+      <h1>HTML Tutorial</h1>
+      <p>HTML is the code that use for display a website.</p>
+    </td>
+    <td>
+    <img src="https://github.com/user-attachments/assets/6d16b691-4a68-49e9-b2b0-498a5bb75294">
+    </td>
+  </tr>
+</table>
+
 ----
 ## Head
 ### Title

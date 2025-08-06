@@ -18,7 +18,8 @@
 ````
 <title>Title</title>
 ````
-![TTitle](https://richardliucode.github.io/richardcode/external/gRIYaScdCyOOgPBNKNyWwWlKYbPnXFazqNoNRUWRdnSeofSUPbKWyphgsjSytEBKvrpxBY.png)
+|The word in the title tag will be display in the browser tap|![TTitle](https://richardliucode.github.io/richardcode/external/gRIYaScdCyOOgPBNKNyWwWlKYbPnXFazqNoNRUWRdnSeofSUPbKWyphgsjSytEBKvrpxBY.png)|
+|-|-|
 ----
 ### Link
 | HTML | Description |

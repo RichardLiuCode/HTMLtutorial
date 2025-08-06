@@ -174,5 +174,6 @@ Embeded external
 ````
 ----
 
-
+# Other HTML tutorial document
+- [https://studio.code.org/docs/ide/weblab](https://studio.code.org/docs/ide/weblab)
 

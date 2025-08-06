@@ -15,7 +15,7 @@
 ----
 ## Head
 ### Title
-````
+````html
 <title>Title</title>
 ````
 |The word in the title tag will be display in the browser tap|![TTitle](https://richardliucode.github.io/richardcode/external/gRIYaScdCyOOgPBNKNyWwWlKYbPnXFazqNoNRUWRdnSeofSUPbKWyphgsjSytEBKvrpxBY.png)|
@@ -107,7 +107,7 @@ Long text
 ````
 ----
 ### Dropdown 
-````
+````html
 <select>
   <option disabled selected> Choose your code language</option>
   <option>HTML</option>
@@ -121,12 +121,12 @@ Long text
 |disabled selected|To make an option in the dropdown that can only be display and cannot be select.|
 ----
 ### Image
-````
+````html
 <img src="image.png">
 ````
 ----
 ### Audio
-````
+````html
 <audio controls>
   <source src="audio.mp3">
 </audio>
@@ -136,7 +136,7 @@ Long text
 |controls| To show the controler of the player |
 ----
 ### Video
-````
+````html
 <video controls>
   <source src="video.mp4">
 </video>
@@ -146,7 +146,7 @@ Long text
 |controls| To show the controler of the player |
 ----
 ### Iframe
-````
+````html
 <iframe src="https://somethings.com"></iframe>
 ````
 |Special Parameter| Description |
@@ -159,7 +159,7 @@ Long text
 
 ## Embeded Css/Javascript
 ### Css
-````
+````html
 <style>
   body{
     background-color:skyblue;
@@ -168,18 +168,18 @@ Long text
 ````
 
 Embeded external
-````
+````html
 <link rel="stylesheet" href="style.css">
 ````
 ----
 ### Javascript
-````
+````html
 <script>
   console.log("message")
 </script>
 ````
 Embeded external
-````
+````html
 <script src="script.js"></script>
 ````
 ----

@@ -4,7 +4,7 @@
       <h1>
         <strong>HTML Tutorial</strong>
       </h1>
-      <p>HTML is the code that use for display a website.</p>
+      <p>HTML is the code used to display a website.</p>
     </td>
     <td>
     <img src="https://github.com/user-attachments/assets/6d16b691-4a68-49e9-b2b0-498a5bb75294">

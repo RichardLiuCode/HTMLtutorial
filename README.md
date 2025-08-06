@@ -176,4 +176,5 @@ Embeded external
 
 # Other HTML tutorial document
 - [https://studio.code.org/docs/ide/weblab](https://studio.code.org/docs/ide/weblab)
+- [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
 

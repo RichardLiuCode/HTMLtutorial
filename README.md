@@ -176,8 +176,10 @@ Embeded external
 ````
 ----
 # How to view page's source on a website
+4 way to view page source
 - Click ````Ctrl```` + ````U```` on browser when you want to view the source code of the website you current open
 - Add the words ````view-source:```` before the URL, like if you want to view the source code of ````https://examole.com````, type ````view-source:https://examole.com```` on the browser.
+- Click ````F12```` or ````Ctrl```` + ````Shift```` + ````I```` to open the developer tool, then go to "Element", then you will see the source code
 # Other HTML tutorial document
 - [https://studio.code.org/docs/ide/weblab](https://studio.code.org/docs/ide/weblab)
 - [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)

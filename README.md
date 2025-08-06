@@ -27,11 +27,12 @@
 |````<link rel="icon" href="favicon.png">````| Set the favicon |
 |````<link rel="stylesheet" href="style.css">````| Load the Css |
 ### meta 
-| HTML | Description |
-|-|-|
-|````<meta name="author" content="Richard">````| |
-|````<meta name="description" content="This is a website that talk about html">````| |
-|````<meta charset="UTF-8">````| |
+| HTML |
+|-|
+|````<meta name="author" content="Richard">````|
+|````<meta name="description" content="This is a website that talk about html">````|
+|````<meta charset="UTF-8">````|
+|````<meta http-equiv="refresh" content="5;url=https:example.com">````|
 ## UI Element
 ### Parameter Inside UI Element Tag
 |parameter|description|available tag|

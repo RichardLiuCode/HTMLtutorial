@@ -27,13 +27,14 @@
 |````<link rel="icon" href="favicon.png">````| Set the favicon |
 |````<link rel="stylesheet" href="style.css">````| Load the Css |
 ### meta 
-| HTML | Description |
-|-|-|
-|````<meta name="author" content="Richard">````| |
-|````<meta name="description" content="This is a website that talk about html">````| |
-|````<meta charset="UTF-8">````||
-|````<meta http-equiv="refresh" content="5;url=https:example.com">````||
-|````<meta name="viewport" content="width=device-width, initial-scale=1.0" />````||
+| HTML | Description |                                                                   
+| ---------------------------------------------------------------------------- | --------------------------------------------- |
+| `<meta name="author" content="Richard">`                                     | Defines the author of the document            |
+| `<meta name="description" content="This is a website that talk about html">` | Provides a brief summary for SEO              |
+| `<meta charset="UTF-8">`                                                     | Sets character encoding to UTF-8              |
+| `<meta http-equiv="refresh" content="5;url=https:example.com">`              | Redirects page to another URL after 5 seconds |
+| `<meta name="viewport" content="width=device-width, initial-scale=1.0">`     | Makes the site responsive on mobile devices   |
+
 ## UI Element
 ### Parameter Inside UI Element Tag
 |parameter|description|available tag|

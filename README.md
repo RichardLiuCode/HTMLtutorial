@@ -96,6 +96,7 @@ Here is an example of how a html code will be like.
     </td>
   </tr>
 </table>
+
 ### Textarea
 ````html
 <textarea>

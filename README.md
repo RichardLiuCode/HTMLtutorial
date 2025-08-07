@@ -257,7 +257,8 @@ Embeded external
 ````
 ----
 # Where can you write HTML
--
+These are some website that you can write HTML code
+- [Code.org WebLab](https://studio.code.org/projects/weblab/new)
 -
 -
 -

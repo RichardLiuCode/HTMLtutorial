@@ -215,6 +215,22 @@ Long text
 ````html
 <input>
 ````
+
+<table>
+  <tr>
+    <td>Sample</td>
+    <td>
+      <br>
+      <table>
+        <tr>
+          <td>_Enter your name_________</td>
+        </tr>
+      </table>
+      <br>
+    </td>
+  </tr>
+</table>
+
 | HTML | Type | Description |
 | - | - | - |
 | ````<input type="text">```` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Text | The input can type any type of text. |

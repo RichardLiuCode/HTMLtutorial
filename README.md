@@ -95,7 +95,7 @@ Long text
 </textarea>
 ````
 ### List
-Order List
+- Order List
 ````html
 <ol>
   <li>Orange</li>
@@ -119,7 +119,7 @@ Order List
   </tr>
 </table>
 
-Unorder List
+- Unorder List
 ````html
 <ul>
   <li>Orange</li>

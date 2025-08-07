@@ -144,6 +144,63 @@ Long text
   </tr>
 </table>
 
+### Table
+````
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Tom</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>Sam</td>
+    <td>13</td>
+  </tr>
+</table>
+````
+<table>
+  <tr>
+    <td>Sample</td>
+    <td>
+      <table>
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Tom</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>Sam</td>
+    <td>13</td>
+  </tr>
+</table>
+    </td>
+  </tr>
+</table>
+
+### Details
+````
+<details>
+  <summary>Title</summary>
+  Description
+</details>
+````
+<table>
+  <tr>
+    <td>Sample</td>
+    <td>
+      <details>
+      <summary>Title</summary>
+        Description
+      </details>
+    </td>
+  </tr>
+</table>
 ### Form
 ````html
 <form action="https://example.onrender.com/api">

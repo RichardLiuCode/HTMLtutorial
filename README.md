@@ -92,7 +92,7 @@ Here is an example of how a html code will be like.
   <tr>
     <td>Sample<br>(The blue text is the hyper link. Try to click it)</td>
     <td>
-      You can go to <a href="https://github.com">GitHub</a> to host your website
+      Example Sentence: You can go to <a href="https://github.com" target="_blank">GitHub</a> to host your website
     </td>
   </tr>
 </table>

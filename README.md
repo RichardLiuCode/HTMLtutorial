@@ -192,7 +192,7 @@ Long text
 ````
 <table>
   <tr>
-    <td>Sample<br>Try the "▶"</td>
+    <td>Sample<br>(Click the ">")</td>
     <td>
       <details>
       <summary>Title</summary>

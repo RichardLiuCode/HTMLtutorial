@@ -94,7 +94,25 @@ Here is a example of how a html code will be like.
 Long text
 </textarea>
 ````
-
+### List
+Order List
+````html
+<ol>
+  <li>Orange</li>
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Strawberry</li>  
+</ol>
+````
+Unorder List
+````html
+<ul>
+  <li>Orange</li>
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Strawberry</li>  
+</ul>
+````
 ### Input
 ````html
 <input>

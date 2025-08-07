@@ -88,7 +88,14 @@ Here is an example of how a html code will be like.
 ````html
 <a href="https://github.com">GitHub</a>
 ````
-
+<table>
+  <tr>
+    <td>Sample</td>
+    <td>
+      <a href="https://github.com">GitHub</a>
+    </td>
+  </tr>
+</table>
 ### Textarea
 ````html
 <textarea>

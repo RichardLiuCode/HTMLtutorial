@@ -28,6 +28,7 @@ Here is a example of how a html code will be like.
   </body>
 </html>
 ````
+----
 ## Head
 ### Title
 ````html

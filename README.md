@@ -258,7 +258,7 @@ Embeded external
 ----
 # Where can you write HTML
 ## Online
-These are some website that you can write HTML code
+These are some website that you can write HTML code online
 - [Code.org WebLab](https://studio.code.org/projects/weblab/new)
 - [Visual Studio code Online](https://vscode.dev/)
 - [W3 School](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor)

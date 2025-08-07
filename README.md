@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<head>
-  <link rel="icon" href="logo.png">
-</head>
+
 <table>
   <tr>
     <td>

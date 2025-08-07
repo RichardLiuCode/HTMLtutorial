@@ -263,6 +263,8 @@ These are some website that you can write HTML code
 - [HTML editor made by Richard Liu](https://richardliucode.github.io/htmleditor/v1.3/)
 
 ## Download Visual Studio Code
+
+You can download the Visual Studio Code to write and edit HTML
 - [Visual Studio](https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=zh-TW&gl=US)
 ## Notepad
 You can also write html code in notepad

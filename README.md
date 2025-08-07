@@ -13,6 +13,21 @@
 </table>
 
 ----
+## Example of a HTML
+Here is a example of how a html code will be like.
+````html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HTML website</title>
+  </head>
+  <body>
+    <h1>Hello!</h1>
+    <hr>
+    <p>This is a simple website</p>
+  </body>
+</html>
+````
 ## Head
 ### Title
 ````html
@@ -26,7 +41,7 @@
 |-|-|
 |````<link rel="icon" href="favicon.png">````| Set the favicon |
 |````<link rel="stylesheet" href="style.css">````| Load the Css |
-### meta 
+### Meta 
 | HTML | Description |                                                                   
 | ---------------------------------------------------------------------------- | --------------------------------------------- |
 | `<meta name="author" content="Richard">`                                     | Defines the author of the document            |

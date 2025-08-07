@@ -287,7 +287,16 @@ Long text
   <option>Python</option>
 </select>
 ````
-|Sample|![](https://richardliucode.github.io/richardcode/external/cdafuvjerbufernvbuefrvnbfeuvneut23458934285.cercv.v.UwokTTaAldAGSVRIXgseQRbfWvOtmiKPVmRJLHtrbtn.Screenshot 2025-08-07 130623.png)|
+
+<table>
+  <tr>
+    <td>Sample</td>
+    <td>
+      <img src="https://richardliucode.github.io/richardcode/external/cdafuvjerbufernvbuefrvnbfeuvneut23458934285-cercv-v-UwokTTaAldAGSVRIXgseQRbfWvOtmiKPVmRJLHtrbtn-Screenshot-2025-08-07-130623.png">
+    </td>
+  </tr>
+</table>
+
 |Special Parameter| Description |
 |-|-|
 |disabled selected|To make an option in the dropdown that can only be display and cannot be select.|

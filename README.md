@@ -1,4 +1,3 @@
-
 <table>
   <tr>
     <td>
@@ -29,6 +28,12 @@ Here is an example of how a html code will be like.
   </body>
 </html>
 ````
+----
+# DOCTYPE html
+````html
+<!DOCTYPE html>
+````
+Type this at the very top of your HTML code
 ----
 ## Head
 ### Title

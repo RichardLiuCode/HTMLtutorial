@@ -96,7 +96,7 @@ Here is an example of how a html code will be like.
 <!-- This is a comment-->
 ````
 
-A comment is for label the code and will not be display in the website.
+- A comment is for label the code and will not be display in the website.
 ### Hyper Link
 ````html
 <a href="https://github.com">GitHub</a>

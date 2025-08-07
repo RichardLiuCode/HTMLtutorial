@@ -15,7 +15,7 @@
 
 ----
 ## Example of a HTML
-Here is a example of how a html code will be like.
+Here is an example of how a html code will be like.
 ````html
 <!DOCTYPE html>
 <html>

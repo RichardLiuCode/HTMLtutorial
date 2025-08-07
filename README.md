@@ -128,7 +128,7 @@ Long text
 ````
 <table>
   <tr>
-    <td>An ordered list is a list with numbers as indexes.</td>
+    <td>Sample<br>An ordered list is a list with numbers as indexes.</td>
     <td>
       1. Orange
       <br>
@@ -152,7 +152,7 @@ Long text
 ````
 <table>
   <tr>
-    <td>Unorder list is a list that <br>with "•" for index</td>
+    <td>Sample<br>Unorder list is a list that <br>with "•" for index</td>
     <td>
       • Orange
       <br>

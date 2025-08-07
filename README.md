@@ -91,6 +91,12 @@ Here is an example of how a html code will be like.
 <hr>
 ````
 
+### Comment
+````html
+<!-- This is a comment-->
+````
+
+A comment is for notice the code and will not be display in the website.
 ### Hyper Link
 ````html
 <a href="https://github.com">GitHub</a>

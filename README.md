@@ -257,11 +257,14 @@ Embeded external
 ````
 ----
 # Where can you write HTML
+## Online
 These are some website that you can write HTML code
 - [Code.org WebLab](https://studio.code.org/projects/weblab/new)
-- [Visual Studio](https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=zh-TW&gl=US)
 - [HTML editor made by Richard Liu](https://richardliucode.github.io/htmleditor/v1.3/)
 
+## Download Visual Studio Code
+- [Visual Studio](https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=zh-TW&gl=US)
+## Notepad
 You can also write html code in notepad
 Steps:
 1. Click ````Win```` + ````R````

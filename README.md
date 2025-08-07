@@ -201,6 +201,7 @@ Long text
     </td>
   </tr>
 </table>
+
 ### Form
 ````html
 <form action="https://example.onrender.com/api">

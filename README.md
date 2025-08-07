@@ -33,7 +33,9 @@ Here is an example of how a html code will be like.
 ````html
 <!DOCTYPE html>
 ````
+
 <p>Type this at the very top of your HTML code</p>
+
 ----
 ## Head
 ### Title

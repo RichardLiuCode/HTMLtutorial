@@ -106,7 +106,7 @@ Order List
 ````
 <table>
   <tr>
-    <td>Order list is a list that <br>with number index</td>
+    <td>Order list is a list that <br>with number for index</td>
     <td>
       1. Orange
       <br>
@@ -128,6 +128,21 @@ Unorder List
   <li>Strawberry</li>  
 </ul>
 ````
+<table>
+  <tr>
+    <td>Unrder list is a list that <br>with "•" for index</td>
+    <td>
+      • Orange
+      <br>
+      • Banana
+      <br>
+      • Apple
+      <br>
+      • Strawberry
+    </td>
+  </tr>
+</table>
+
 ### Input
 ````html
 <input>

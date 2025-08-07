@@ -29,7 +29,7 @@ Here is an example of how a html code will be like.
 </html>
 ````
 ----
-# DOCTYPE html
+## DOCTYPE html
 ````html
 <!DOCTYPE html>
 ````

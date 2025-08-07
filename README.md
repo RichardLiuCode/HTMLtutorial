@@ -143,6 +143,15 @@ Long text
   </tr>
 </table>
 
+### Form
+````html
+<form action="https://example.onrender.com/api">
+  <input type="text" name="q" placeholder="Enter your message">
+  <br>
+  <input type="submit" value="Submit">
+</form>
+````
+
 ### Input
 ````html
 <input>
@@ -163,14 +172,7 @@ Long text
 | ````<input type="checkbox">```` | Checkbox | A checkbox that can be check or blank |
 | ````<input type="radio">```` | Radio | A button that can only be select one in the same group id, just like multiple choice. |
 
-### Form
-````html
-<form action="https://example.onrender.com/api">
-  <input type="text" name="q" placeholder="Enter your message">
-  <br>
-  <input type="submit" value="Submit">
-</form>
-````
+
 ### Button
 ````html
 <button>Click Me</button>

@@ -90,9 +90,9 @@ Here is an example of how a html code will be like.
 ````
 <table>
   <tr>
-    <td>Sample</td>
+    <td>Sample<br>(The blue text is the hyper link. Try to click it></td>
     <td>
-      <a href="https://github.com">GitHub</a>
+      You can go to <a href="https://github.com">GitHub</a> to host your website
     </td>
   </tr>
 </table>

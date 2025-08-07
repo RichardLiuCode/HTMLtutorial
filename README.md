@@ -255,7 +255,7 @@ Embeded external
 <script src="script.js"></script>
 ````
 ----
-# How to view page's source on a website
+# How to view html source code on a website
 4 way to view page source
 - You can click ````Ctrl```` + ````U```` on browser when you want to view the source code of the website you current open
 - Or add the words ````view-source:```` before the URL, like if you want to view the source code of ````https://examole.com````, type ````view-source:https://examole.com```` on the browser.

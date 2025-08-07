@@ -261,7 +261,7 @@ These are some website that you can write HTML code
 - [Code.org WebLab](https://studio.code.org/projects/weblab/new)
 - [Visual Studio](https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=zh-TW&gl=US)
 -
--
+- [HTML editor made by RichardLiu](https://richardliucode.github.io/htmleditor/v1.3/)
 # How to view html source code on a website
 4 way to view page source
 - You can click ````Ctrl```` + ````U```` on browser when you want to view the source code of the website you current open

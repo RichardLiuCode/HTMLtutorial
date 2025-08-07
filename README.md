@@ -268,6 +268,9 @@ Long text
 | ````<input type="checkbox">```` | Checkbox | A checkbox that can be check or blank |
 | ````<input type="radio">```` | Radio | A button that can only be select one in the same group id, just like multiple choice. |
 
+|Special Parameter| Description |
+|-|-|
+|placeholder|To label the text input before the user type any text.|
 
 ### Button
 ````html
@@ -293,6 +296,9 @@ Long text
 <img src="image.png">
 ````
 
+|Special Parameter| Description |
+|-|-|
+| alt | To label the image if the image cannot display. |
 ### Audio
 ````html
 <audio controls>

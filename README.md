@@ -238,7 +238,7 @@ Long text
       <br>
       <table>
         <tr>
-          <td>_Enter_your_name____________</td>
+          <td>_ Enter your name ____________</td>
         </tr>
       </table>
       <br>

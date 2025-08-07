@@ -263,7 +263,15 @@ These are some website that you can write HTML code
 - [HTML editor made by Richard Liu](https://richardliucode.github.io/htmleditor/v1.3/)
 
 You can also write html code in notepad
-
+Steps:
+1. Click ````Win```` + ````R````
+2. Enter "notepad"
+3. Type your HTML code
+4. Click "File"
+5. Select "Save as"
+6. Type your project's name but ended with ".html"
+7. Select the "Save as type" to "All files"
+8. Open the file you just save in the file explorer
 # How to view html source code on a website
 4 way to view page source
 - You can click ````Ctrl```` + ````U```` on browser when you want to view the source code of the website you current open

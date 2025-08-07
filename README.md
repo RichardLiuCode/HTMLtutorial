@@ -36,7 +36,6 @@ Here is a example of how a html code will be like.
 ````
 |The word in the title tag will be display in the browser tap|![TTitle](https://richardliucode.github.io/richardcode/external/gRIYaScdCyOOgPBNKNyWwWlKYbPnXFazqNoNRUWRdnSeofSUPbKWyphgsjSytEBKvrpxBY.png)|
 |-|-|
-----
 ### Link
 | HTML | Description |
 |-|-|
@@ -50,7 +49,7 @@ Here is a example of how a html code will be like.
 | `<meta charset="UTF-8">`                                                     | Sets character encoding to UTF-8              |
 | `<meta http-equiv="refresh" content="5;url=https:example.com">`              | Redirects page to another URL after 5 seconds |
 | `<meta name="viewport" content="width=device-width, initial-scale=1.0">`     | Makes the site responsive on mobile devices   |
-
+----
 ## UI Element
 ### Parameter Inside UI Element Tag
 |parameter|description|available tag|
@@ -68,34 +67,34 @@ Here is a example of how a html code will be like.
 |4| ````<h4>This is a fourth heading</h4>```` |
 |5| ````<h5>This is a fifth heading</h5>```` |
 |6| ````<h6>This is a sixth heading</h6>```` |
-----
+
 ### Paragraph
 ````html
 <p>This is a paragraph</p>
 ````
-----
+
 ### Line Break
 ````html
 <br>
 ````
-----
+
 ### Dividing Line
 ````html
 <hr>
 ````
-----
+
 ### Hyper Link
 ````html
 <a href="https://github.com">GitHub</a>
 ````
-----
+
 ### Textarea
 ````html
 <textarea>
 Long text
 </textarea>
 ````
-----
+
 ### Input
 ````html
 <input>
@@ -116,12 +115,12 @@ Long text
 | ````<input type="checkbox">```` | Checkbox | A checkbox that can be check or blank |
 | ````<input type="radio">```` | Radio | A button that can only be select one in the same group id, just like multiple choice. |
 
-----
+
 ### Button
 ````html
 <button>Click Me</button>
 ````
-----
+
 ### Dropdown 
 ````html
 <select>
@@ -135,12 +134,12 @@ Long text
 |Special Parameter| Description |
 |-|-|
 |disabled selected|To make an option in the dropdown that can only be display and cannot be select.|
-----
+
 ### Image
 ````html
 <img src="image.png">
 ````
-----
+
 ### Audio
 ````html
 <audio controls>
@@ -150,7 +149,7 @@ Long text
 |Special Parameter| Description |
 |-|-|
 |controls| To show the controler of the player |
-----
+
 ### Video
 ````html
 <video controls>
@@ -160,7 +159,7 @@ Long text
 |Special Parameter| Description |
 |-|-|
 |controls| To show the controler of the player |
-----
+
 ### Iframe
 ````html
 <iframe src="https://somethings.com"></iframe>
@@ -187,7 +186,7 @@ Embeded external
 ````html
 <link rel="stylesheet" href="style.css">
 ````
-----
+
 ### Javascript
 ````html
 <script>

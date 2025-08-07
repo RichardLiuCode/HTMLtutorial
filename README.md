@@ -35,7 +35,7 @@ Here is an example of how a html code will be like.
 ````html
 <title>Title</title>
 ````
-|The word in the title tag will be display in the browser tap|![TTitle](https://richardliucode.github.io/richardcode/external/gRIYaScdCyOOgPBNKNyWwWlKYbPnXFazqNoNRUWRdnSeofSUPbKWyphgsjSytEBKvrpxBY.png)|
+|The word in the title tag will be display in the browser tab|![TTitle](https://richardliucode.github.io/richardcode/external/gRIYaScdCyOOgPBNKNyWwWlKYbPnXFazqNoNRUWRdnSeofSUPbKWyphgsjSytEBKvrpxBY.png)|
 |-|-|
 ### Link
 | HTML | Description |

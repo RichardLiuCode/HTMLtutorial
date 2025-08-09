@@ -381,7 +381,8 @@ These are some website that you can write HTML code online
 ## Download Visual Studio Code
 
 You can download the Visual Studio Code to write and edit HTML
-- [Download Visual Studio on Microsoft Store](https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=zh-TW&gl=US)
+- [Download Visual Studio](https://code.visualstudio.com/download)
+- [Download on Microsoft Store](https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=zh-TW&gl=US)
 ## Notepad
 You can also write html code in notepad
 Steps:

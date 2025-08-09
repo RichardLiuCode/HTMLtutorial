@@ -116,6 +116,11 @@ Here is an example of how a html code will be like.
 Long text
 </textarea>
 ````
+
+### Div
+````html
+<div></div>
+````
 ### List
 - Order List
 ````html

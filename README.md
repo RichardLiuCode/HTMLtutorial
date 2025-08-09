@@ -335,6 +335,7 @@ Long text
 ````
 |Special Parameter| Description |
 |-|-|
+|srcdoc|Embeded plain text as html in iframe |
 |sandbox|Block some permissions to for the iframe tag, Especially when you don't trust the website you embeded in the iframe tag.|
 |allow| Allow some permission in the iframe tag when needed and you trust the website is save. |
 |allowfullscreen|Allow the embedded website can be go to full screen mode.|

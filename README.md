@@ -390,6 +390,7 @@ You can download the Visual Studio Code to write and edit HTML
 - [Download on Microsoft Store](https://apps.microsoft.com/detail/xp9khm4bk9fz7q?hl=zh-TW&gl=US)
 ## Notepad
 You can also write html code in notepad
+
 Steps:
 1. Click ````Win```` + ````R````
 2. Enter "notepad"

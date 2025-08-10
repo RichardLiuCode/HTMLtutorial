@@ -121,10 +121,36 @@ Here is an example of how a html code will be like.
 <br>
 ````
 
+<table>
+  <tr>
+    <td>
+      <pre>This is the first line<br>&ltbr&gt<br>This is the second line</pre>
+    </td>
+    <td>
+    This is the first line
+    <br>
+    This is the second line
+    </td>
+  </tr>
+</table>
+
 ### Dividing Line
 ````html
 <hr>
 ````
+
+<table>
+  <tr>
+    <td>
+      <pre>This is the first line<br>&lthr&gt<br>This is the second line</pre>
+    </td>
+    <td>
+    This is the first line
+    <hr>
+    This is the second line
+    </td>
+  </tr>
+</table>
 
 ### Comment
 ````html

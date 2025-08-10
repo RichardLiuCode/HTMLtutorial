@@ -69,13 +69,47 @@ Here is an example of how a html code will be like.
 ### Heading 
 | # | HTML |
 | - | - |
-|1| ````<h1>This is a first heading</h1>```` |
+|1| ```````` |
 |2| ````<h2>This is a second heading</h2>```` |
 |3| ````<h3>This is a third heading</h3>```` |
 |4| ````<h4>This is a fourth heading</h4>```` |
 |5| ````<h5>This is a fifth heading</h5>```` |
 |6| ````<h6>This is a sixth heading</h6>```` |
 
+<table>
+  <tr>
+    <th>#</th>
+    <th>HTML</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>
+      <pre>
+        <h1>This is a first heading</h1>
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td></td>
+  </tr>
+</table>
 ### Paragraph
 ````html
 <p>This is a paragraph</p>

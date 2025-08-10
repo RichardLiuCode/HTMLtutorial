@@ -326,7 +326,7 @@ Long text
       Sample
     </td>
     <td>
-      ![](https://richardliucode.github.io/richardcode/external/vbndferjvnberujvnerujvendskvmasekmrvekivmrseikajmvesakirfvmeaslvrkmvghghgbgbntlrkv43534534543Screenshot%202025-08-10%20003814.png)
+     <img src="https://richardliucode.github.io/richardcode/external/vbndferjvnberujvnerujvendskvmasekmrvekivmrseikajmvesakirfvmeaslvrkmvghghgbgbntlrkv43534534543Screenshot%202025-08-10%20003814.png">
     </td>
   </tr>
 </table>

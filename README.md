@@ -320,6 +320,16 @@ Long text
   <source src="audio.mp3">
 </audio>
 ````
+<table>
+  <tr>
+    <td>
+      Sample
+    </td>
+    <td>
+      ![](https://richardliucode.github.io/richardcode/external/vbndferjvnberujvnerujvendskvmasekmrvekivmrseikajmvesakirfvmeaslvrkmvghghgbgbntlrkv43534534543Screenshot%202025-08-10%20003814.png)
+    </td>
+  </tr>
+</table>
 |Special Parameter| Description |
 |-|-|
 |controls| To show the controler of the player |

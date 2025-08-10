@@ -67,49 +67,69 @@ Here is an example of how a html code will be like.
 |href | Hyper link, like ````href="https://github.com"````|[````<a>````](https://github.com/RichardLiuCode/HTMLtutorial/#hyper-link), [````<link>````](https://github.com/RichardLiuCode/HTMLtutorial/blob/main/README.md#link)|
 |src| The source of a url that load for an element. |[````<img>````](https://github.com/RichardLiuCode/HTMLtutorial/#image), [````<audio>````](https://github.com/RichardLiuCode/HTMLtutorial/#audio), [````<video>````](https://github.com/RichardLiuCode/HTMLtutorial/#video), [````<iframe>````](https://github.com/RichardLiuCode/HTMLtutorial/#iframe), [````<script>````](https://github.com/RichardLiuCode/HTMLtutorial/#javascript)|
 ### Heading 
-| # | HTML |
-| - | - |
-|1| ```````` |
-|2| ````<h2>This is a second heading</h2>```` |
-|3| ````<h3>This is a third heading</h3>```` |
-|4| ````<h4>This is a fourth heading</h4>```` |
-|5| ````<h5>This is a fifth heading</h5>```` |
-|6| ````<h6>This is a sixth heading</h6>```` |
 
 <table>
   <tr>
     <th>#</th>
     <th>HTML</th>
+    <th>Sample</th>
   </tr>
   <tr>
     <td>1</td>
     <td>
-      <pre>
-        <h1>This is a first heading</h1>
-      </pre>
+      <pre>&lth1&gtThis is a first heading&lt/h1&gt</pre>
+    </td>
+    <td>
+      <h1>This is a first heading</h1>
     </td>
   </tr>
   <tr>
     <td>2</td>
-    <td></td>
+    <td>
+      <pre>&lth2&gtThis is a second heading&lt/h2&gt</pre>
+    </td>
+    <td>
+      <h2>This is a second heading</h2>
+    </td>
   </tr>
   <tr>
     <td>3</td>
-    <td></td>
+    <td>
+      <pre>&lth3&gtThis is a third heading&lt/h3&gt</pre>
+    </td>
+    <td>
+      <h3>This is a third heading</h3>
+    </td>
   </tr>
   <tr>
     <td>4</td>
-    <td></td>
+    <td>
+      <pre>&lth4&gtThis is a fourth heading&lt/h4&gt</pre>
+    </td>
+    <td>
+      <h4>This is a fourth heading</h4>
+    </td>
   </tr>
   <tr>
     <td>5</td>
-    <td></td>
+    <td>
+      <pre>&lth5&gtThis is a fifth heading&lt/h5&gt</pre>
+    </td>
+    <td>
+      <h5>This is a fifth heading</h5>
+    </td>
   </tr>
   <tr>
     <td>6</td>
-    <td></td>
+    <td>
+      <pre>&lth6&gtThis is a sixth heading&lt/h6&gt</pre>
+    </td>
+    <td>
+      <h6>This is a sixth heading</h6>
+    </td>
   </tr>
 </table>
+
 ### Paragraph
 ````html
 <p>This is a paragraph</p>

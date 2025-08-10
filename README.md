@@ -144,8 +144,11 @@ Here is an example of how a html code will be like.
 
 <table>
   <tr>
+    <td colspan="2">Sample</td>
+  </tr>
+  <tr>
     <td>
-      <pre>This is the first line<br>&lthr&gt<br>This is the second line</pre>
+      <pre>&ltp&gtThis is the first line&lt/p&gt<br>&lthr&gt<br>&ltp&gtThis is the second line&lt/p&gt</pre>
     </td>
     <td>
     This is the first line

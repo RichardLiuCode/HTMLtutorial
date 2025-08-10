@@ -394,7 +394,7 @@ Long text
 ----
 
 ## Embeded Css/Javascript
-### Css
+### CSS
 ````html
 <style>
   body{

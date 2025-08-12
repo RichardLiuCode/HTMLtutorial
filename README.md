@@ -38,7 +38,9 @@ Here is an example of how a html code will be like.
 
 ----
 <h2>Head</h2>
+
 <h3>Title</h3>
+
 ````html
 <title>Title</title>
 ````

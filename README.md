@@ -79,7 +79,7 @@ Here is an example of how a html code will be like.
   <tr>
     <td>1</td>
     <td>
-      <pre>&lth1%gtThis is a first heading&lt/h1&gt</pre>
+      <pre>&lth1&gtThis is a first heading&lt/h1&gt</pre>
     </td>
   </tr>
   <tr>

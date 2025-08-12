@@ -15,8 +15,7 @@
 ----
 ## Example of a HTML
 Here is an example of how a html code will be like.
-<pre class="language-html">
-&lt!DOCTYPE html&gt
+<pre><code class="language-html">&lt!DOCTYPE html&gt
 &lthtml&gt
   &lthead&gt
     &lttitle&gtHTML website%lt/title&gt
@@ -27,7 +26,7 @@ Here is an example of how a html code will be like.
     &ltp&gtThis is a simple website&lt/p&gt
   &lt/body&gt
 &lt/html&gt
-</pre>
+</code></pre>
 
 ----
 ## DOCTYPE html

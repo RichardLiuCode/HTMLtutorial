@@ -37,8 +37,8 @@ Here is an example of how a html code will be like.
 <p>Type this at the very top of your HTML code</p>
 
 ----
-## Head
-### Title
+<h2>Head</h2>
+<h3>Title</h3>
 ````html
 <title>Title</title>
 ````

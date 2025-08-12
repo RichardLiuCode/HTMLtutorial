@@ -15,18 +15,19 @@
 ----
 ## Example of a HTML
 Here is an example of how a html code will be like.
-<pre><code class="language-html">&lt!DOCTYPE html&gt
-&lthtml&gt
-  &lthead&gt
-    &lttitle&gtHTML website%lt/title&gt
-  &lt/head&gt
-  &ltbody&gt
-    &lth1&gtHello!&lt/h1&gt
-    &lthr&gt
-    &ltp&gtThis is a simple website&lt/p&gt
-  &lt/body&gt
-&lt/html&gt
-</code></pre>
+````html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HTML website%lt/title>
+  </head>
+  <body>
+    <h1>Hello!</h1>
+    <hr>
+    <p>This is a simple website</p>
+  </body>
+</html>
+````
 
 ----
 ## DOCTYPE html
@@ -78,37 +79,37 @@ Here is an example of how a html code will be like.
   <tr>
     <td>1</td>
     <td>
-      <pre>&lth1&gtThis is a first heading&lt/h1&gt</pre>
+      <pre><h1>This is a first heading</h1></pre>
     </td>
   </tr>
   <tr>
     <td>2</td>
     <td>
-      <pre>&lth2&gtThis is a second heading&lt/h2&gt</pre>
+      <pre><h2>This is a second heading</h2></pre>
     </td>
   </tr>
   <tr>
     <td>3</td>
     <td>
-      <pre>&lth3&gtThis is a third heading&lt/h3&gt</pre>
+      <pre><h3>This is a third heading</h3></pre>
     </td>
   </tr>
   <tr>
     <td>4</td>
     <td>
-      <pre>&lth4&gtThis is a fourth heading&lt/h4&gt</pre>
+      <pre><h4>This is a fourth heading</h4></pre>
     </td>
   </tr>
   <tr>
     <td>5</td>
     <td>
-      <pre>&lth5&gtThis is a fifth heading&lt/h5&gt</pre>
+      <pre><h5>This is a fifth heading</h5></pre>
     </td>
   </tr>
   <tr>
     <td>6</td>
     <td>
-      <pre>&lth6&gtThis is a sixth heading&lt/h6&gt</pre>
+      <pre><h6>This is a sixth heading</h6></pre>
     </td>
   </tr>
 </table>
@@ -129,7 +130,7 @@ Here is an example of how a html code will be like.
   </tr>
   <tr>
     <td>
-      <pre>&ltp&gtThis is the first line &ltbr&gt This is the second line&lt/p&gt</pre>
+      <pre><p>This is the first line <br> This is the second line</p></pre>
     </td>
     <td>
     This is the first line
@@ -150,7 +151,7 @@ Here is an example of how a html code will be like.
   </tr>
   <tr>
     <td>
-      <pre>&ltp&gtThis is the first line&lt/p&gt<br>&lthr&gt<br>&ltp&gtThis is the second line&lt/p&gt</pre>
+      <pre><p>This is the first line</p><br><hr><br><p>This is the second line</p></pre>
     </td>
     <td>
     This is the first line

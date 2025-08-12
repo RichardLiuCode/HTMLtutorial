@@ -20,12 +20,12 @@ Here is an example of how a html code will be like.
 &lthtml&gt
   &lthead&gt
     &lttitle&gtHTML website%lt/title&gt
-&lt/head&gt
+  &lt/head&gt
   &ltbody&gt
-    &lth1%gtHello!&lt/h1&gt
+    &lth1&gtHello!&lt/h1&gt
     &lthr&gt
     &ltp&gtThis is a simple website&lt/p&gt
-&lt/body&gt
+  &lt/body&gt
 &lt/html&gt
 </pre>
 

@@ -15,19 +15,20 @@
 ----
 ## Example of a HTML
 Here is an example of how a html code will be like.
-````html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>HTML website</title>
-  </head>
-  <body>
-    <h1>Hello!</h1>
-    <hr>
-    <p>This is a simple website</p>
-  </body>
-</html>
-````
+<pre class="language-html">
+&lt!DOCTYPE html&gt
+&lthtml&gt
+  &lthead&gt
+    &lttitle&gtHTML website%lt/title&gt
+&lt/head&gt
+  &ltbody&gt
+    &lth1%gtHello!&lt/h1&gt
+    &lthr&gt
+    &ltp&gtThis is a simple website&lt/p&gt
+&lt/body&gt
+&lt/html&gt
+</pre>
+
 ----
 ## DOCTYPE html
 ````html

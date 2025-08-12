@@ -79,37 +79,37 @@ Here is an example of how a html code will be like.
   <tr>
     <td>1</td>
     <td>
-      <pre><h1>This is a first heading</h1></pre>
+      <pre>&lth1%gtThis is a first heading&lt/h1&gt</pre>
     </td>
   </tr>
   <tr>
     <td>2</td>
     <td>
-      <pre><h2>This is a second heading</h2></pre>
+      <pre>&lth2&gtThis is a second heading&lt/h2&gt</pre>
     </td>
   </tr>
   <tr>
     <td>3</td>
     <td>
-      <pre><h3>This is a third heading</h3></pre>
+      <pre>&lth3&gtThis is a third heading&lt/h3&gt</pre>
     </td>
   </tr>
   <tr>
     <td>4</td>
     <td>
-      <pre><h4>This is a fourth heading</h4></pre>
+      <pre>&lth4&gtThis is a fourth heading&lt/h4&gt</pre>
     </td>
   </tr>
   <tr>
     <td>5</td>
     <td>
-      <pre><h5>This is a fifth heading</h5></pre>
+      <pre>&lth5&gtThis is a fifth heading&lt/h5&gt</pre>
     </td>
   </tr>
   <tr>
     <td>6</td>
     <td>
-      <pre><h6>This is a sixth heading</h6></pre>
+      <pre>&lth6&gtThis is a sixth heading&lt/h6&gt</pre>
     </td>
   </tr>
 </table>

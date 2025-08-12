@@ -19,7 +19,7 @@ Here is an example of how a html code will be like.
 <!DOCTYPE html>
 <html>
   <head>
-    <title>HTML website%lt/title>
+    <title>HTML website</title>
   </head>
   <body>
     <h1>Hello!</h1>

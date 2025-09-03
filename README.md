@@ -130,7 +130,7 @@ Here is an example of how a html code will be like.
   </tr>
   <tr>
     <td>
-      <pre><p>This is the first line <br> This is the second line</p></pre>
+      <pre>&ltp&gtThis is the first line &ltbr&gt This is the second line&lt/p&gt</pre>
     </td>
     <td>
     This is the first line
@@ -151,7 +151,7 @@ Here is an example of how a html code will be like.
   </tr>
   <tr>
     <td>
-      <pre><p>This is the first line</p><br><hr><br><p>This is the second line</p></pre>
+      <pre>&ltp&gtThis is the first line&lt/p&gt<br>&lthr&gt<br>&ltp&gtThis is the second line&lt/p&gt</pre>
     </td>
     <td>
     This is the first line
@@ -484,7 +484,7 @@ Steps:
 # How to view html source code on a website
 4 way to view page source
 - You can click ````Ctrl```` + ````U```` on browser when you want to view the source code of the website you current open
-- Or add the words ````view-source:```` before the URL, like if you want to view the source code of ````https://examole.com````, type ````view-source:https://examole.com```` on the browser.
+- Or add the words ````view-source:```` before the URL, like if you want to view the source code of ````https://example.com````, type ````view-source:https://example.com```` on the browser.
 - Or click ````F12```` or ````Ctrl```` + ````Shift```` + ````I```` to open the developer tool, then go to "Element", then you will see the source code
 - You can also use tool like [https://www.view-page-source.com](https://www.view-page-source.com/), enter the URL that you want so view source, then it will display the source code, you can also download then as a html file.
 ----
